@@ -1,0 +1,25 @@
+{
+  "name": "typescript-tdolist-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraPellnor/TypeScript-TdoList-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraPellnor/TypeScript-TdoList-Backend/issues"
+  },
+  "homepage": "https://github.com/SaraPellnor/TypeScript-TdoList-Backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+
+}
