@@ -13,7 +13,7 @@ app.use(cookieSession({
     secret: "L1$a",
   
     // Cookie Options
-    maxAge: 24 * 60 * 60 * 1000 // 24 hours
+    // maxAge: 24 * 60 * 60 * 1000 // 24 hours
   }))
 
 app.use("/api/user", userRouter)
